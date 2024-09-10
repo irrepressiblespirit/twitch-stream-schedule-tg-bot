@@ -1,7 +1,7 @@
 twitchusersurl: "https://api.twitch.tv/helix/users"
 twitchstreamscheduleurl: "https://api.twitch.tv/helix/schedule"
-clientid: jqf8y13meaxmysmriegsv9f1l64c6t
-clientsecret: 00ajqmhacqzqxh1tuwkpmt27h8uwqx
-telegramtoken: 6537488676:AAE2mSQqcTfpbFgsOGt4Hl2mG_9AiBC_0nM
+clientid: your_id
+clientsecret: your_secret
+telegramtoken: your_token
 mongo: "mongodb://127.0.0.1:27117"
 redirecturl: "http://localhost:8080"
